@@ -40,7 +40,7 @@ Web servers provide an interconnected network that pass data to each other. Our 
 
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
-.get
+.post, .get, .put, .delete
 
 ## Project Set Up
 
